@@ -27,12 +27,17 @@
 
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode,latex,linux,pycharm,php,anaconda" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,php,latex" />
 </p>
 
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,pycharm,anaconda" />
+</p>
 ### 🛠️ Communication
 
 <p align="left">
