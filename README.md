@@ -28,13 +28,13 @@
 ### 🛠️ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vercel,php,latex,wordpress" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,vercel,php,latex,wordpress" />
 </p>
 
 ### 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,pycharm,anaconda,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,pycharm,anaconda,github,idea" />
 </p>
 
 ### 🛠️ Editing
