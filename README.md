@@ -19,7 +19,7 @@
 
 ### 🛠️ Editing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premier pro, " />
+  <img src="https://skillicons.dev/icons?i=adobe" />
 </p>
 
 ### 🛠️ Communication
