@@ -10,7 +10,6 @@
 - 📫 Reach me at **asadullah42170@gmail.com**
 
 ---
-
 <p align="center">
   <!-- Online badge -->
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge" style="border-radius: 50px;" />
@@ -24,6 +23,7 @@
   <!-- Listening badge -->
   <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-00cc66?style=for-the-badge&logo=spotify" style="border-radius: 50px;" />
 </p>
+
 
 ### 🛠️ Languages
 
