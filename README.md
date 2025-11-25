@@ -21,7 +21,7 @@
 
 ### 🌍 Connect With Me
 <p align="left">
-<a href="[https://facebook.com/](https://www.facebook.com/asadullah.imran.jayed)" target="_blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+<a href="https://www.facebook.com/asadullah.imran.jayed" target="_blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>
 <a href="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/asadullah-imran-jayed-694269336/?originalSubdomain=bd)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
