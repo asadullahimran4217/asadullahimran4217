@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🎓 **B.Sc. in CSE (Running)** – Green University of Bangladesh  
-- 💡 Exploring **Machine Learning, React.js, and Frontend Development**  
+- 💡 Exploring **Machine Learning and Frontend Development**  
 - 🔥 Love building real-world projects & learning new technologies  
 - 📫 Reach me at **asadullah42170@gmail.com**
 
