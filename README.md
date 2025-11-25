@@ -14,15 +14,26 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github," />
 </p>
 
 ---
+### 📄 Microsoft Office Skills
 
-### 🌍 Connect With Me
 <p align="left">
-<a href="https://www.facebook.com/asadullah.imran.jayed" target="_blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>
-<a href="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/asadullah-imran-jayed-694269336/?originalSubdomain=bd)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
+
+  <!-- MS Word -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" 
+       alt="Word" width="50" height="50"/>
+
+  <!-- MS Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+       alt="Excel" width="50" height="50"/>
+
+  <!-- MS PowerPoint -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" 
+       alt="PowerPoint" width="50" height="50"/>
+
+
 </p>
 
