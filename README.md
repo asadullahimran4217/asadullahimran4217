@@ -1,7 +1,42 @@
-🎓 Computer Science & Engineering Student | 🌐 Web Designer | Software Developer
+<h1 align="center">Hi 👋, I'm Asadullah Imran</h1>
+<h3 align="center">Passionate CSE Student | ML Enthusiast | Web Developer</h3>
 
-I am an enthusiastic and dedicated CSE student at Green University of Bangladesh with a strong interest in software development, problem-solving, and web design. Skilled in C, Java, Python, HTML, CSS, MySQL, and GitHub, I enjoy building practical projects that solve real-world problems—ranging from management systems to interactive games.
+---
 
-Beyond academics, I actively engage in volunteering, community service, and teamwork, which strengthens my leadership and collaboration skills. My long-term goal is to grow as a professional in the IT sector, continuously learning emerging technologies and contributing to innovative solutions.
+### 🚀 About Me
+- 🎓 **B.Sc. in CSE (Running)** – Green University of Bangladesh  
+- 💡 Exploring **Machine Learning, React.js, and Backend Development**  
+- 🔥 Love building real-world projects & learning new technologies  
+- 📫 Reach me at **your-email@example.com**
 
-🔹 Skills: Programming | Database Management | Web Design | Data Analysis
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 💼 Projects
+- 🔥 **Calories Burnt Prediction (ML Project)** — Calculates calories burned using Machine Learning  
+- 🌐 **React Applications** — Modern UI development  
+- 📊 **Python Data Visualization** using Matplotlib & Pandas  
+
+---
+
+### 🌍 Connect With Me
+<p align="left">
+<a href="https://facebook.com/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+<a href="https://linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
