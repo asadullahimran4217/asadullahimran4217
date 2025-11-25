@@ -12,19 +12,17 @@
 ---
 
 <p align="center">
-
   <!-- Online badge -->
-  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge" style="border-radius: 12px;" />
 
   <!-- Playing badge -->
-  <img src="https://img.shields.io/badge/playing-nothing%20rn-4b6fff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/playing-nothing%20rn-4b6fff?style=for-the-badge" style="border-radius: 12px;" />
 
   <!-- Coding badge -->
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-0099ff?style=for-the-badge&logo=visualstudio" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-0099ff?style=for-the-badge&logo=visualstudio" style="border-radius: 12px;" />
 
   <!-- Listening badge -->
-  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-00cc66?style=for-the-badge&logo=spotify" />
-
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-00cc66?style=for-the-badge&logo=spotify" style="border-radius: 12px;" />
 </p>
 
 ### 🛠️ Languages
