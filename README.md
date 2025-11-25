@@ -11,15 +11,26 @@
 
 ---
 
+<p align="center">
+
+  <!-- Online badge -->
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge" />
+
+  <!-- Playing badge -->
+  <img src="https://img.shields.io/badge/playing-nothing%20rn-4b6fff?style=for-the-badge" />
+
+  <!-- Coding badge -->
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-0099ff?style=for-the-badge&logo=visualstudio" />
+
+  <!-- Listening badge -->
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-00cc66?style=for-the-badge&logo=spotify" />
+
+</p>
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode,latex,linux,pycharm,php,database" />
-</p>
-
-### 🛠️ Editing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=Pr, Ps, Ai" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode,latex,linux,pycharm,php" />
 </p>
 
 ### 🛠️ Communication
