@@ -30,7 +30,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode,latex,linux,pycharm,php" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode,latex,linux,pycharm,php,anaconda" />
 </p>
 
 ### 🛠️ Communication
