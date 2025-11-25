@@ -17,23 +17,5 @@
   <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github," />
 </p>
 
----
-### 📄 Microsoft Office Skills
 
-<p align="left">
-
-  <!-- MS Word -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" 
-       alt="Word" width="50" height="50"/>
-
-  <!-- MS Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
-       alt="Excel" width="50" height="50"/>
-
-  <!-- MS PowerPoint -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" 
-       alt="PowerPoint" width="50" height="50"/>
-
-
-</p>
 
