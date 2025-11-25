@@ -38,7 +38,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,linux,pycharm,anaconda" />
 </p>
-🛠️ Communication
+
+### 🛠️ Communications
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linkedin,discord,gmail,instagram,twitter" />
