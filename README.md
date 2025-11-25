@@ -14,8 +14,12 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github," />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode" />
 </p>
 
+### 🛠️ Communication
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linkedin,discord," />
+</p>
 
