@@ -36,7 +36,7 @@
 ### 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,pycharm,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,pycharm,anaconda,intellij" />
 </p>
 
 ### 🛠️ Communications
