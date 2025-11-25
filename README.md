@@ -14,12 +14,17 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode,latex,linux,pycharm,php,database" />
+</p>
+
+### 🛠️ Editing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premier pro, " />
 </p>
 
 ### 🛠️ Communication
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin,discord," />
+  <img src="https://skillicons.dev/icons?i=linkedin,discord,gmail,instagram,twitter" />
 </p>
 
